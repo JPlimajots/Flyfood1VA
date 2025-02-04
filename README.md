@@ -28,7 +28,7 @@ O projeto está organizado da seguinte forma:
 ```
 .
 ├── matrizes/          # Diretório contendo os arquivos de matrizes
-├── Fly_food_FB.py     # Código principal do programa
+├── flyfood.py         # Código principal do programa
 └── README.md          # Arquivo de documentação
 ```
 
@@ -44,7 +44,7 @@ O projeto está organizado da seguinte forma:
 2. Execute o programa com o seguinte comando no terminal:
 
 ```bash
-python Fly_food_FB.py
+python flyfood.py
 ```
 
 3. Siga as instruções para selecionar o arquivo de matriz desejado.
@@ -75,7 +75,7 @@ Neste exemplo:
 
 ## Contribuidores
 
-- André Barbosa
+- André dos Santos Barbosa
 - João Pedro de Lima
 - Márcia Alves de Assis Lima
 - Wilka Vitória Granjeiro do Nascimento
